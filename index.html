@@ -8,5 +8,18 @@
 	</head>
 	<body>
 		<h1>Hello World</h1>
+		<form action="https://YOUR-APP.herokuapp.com/" method="POST">
+		    <script
+		        src="https://checkout.stripe.com/checkout.js"
+		        class="stripe-button"
+		        data-key="pk_test_MW5gBqOJA5wSyK0VIBYFpVpL"
+		        data-name="Azlen"
+		        data-description="test..."
+		        data-amount="999"
+		    ></script>
+		    <input name="amount" value="YOUR_AMOUNT" type="hidden">
+		    <input name="description" value="YOUR_DESCRIPTION" type="hidden">
+		    <input name="metadata" value="YOUR_METADATA" type="hidden">
+		</form>
 	</body>
 </html>
