@@ -4,7 +4,7 @@
 		"description": "Testing ecommerce on a static site with heroku server"
 	},
 	"products": {
-		"1": {
+		"prod_9m9SvMxkycXEXl": {
 			"amount": 1499,
 			"description": "Deck of cards",
 			"_images": [""],
@@ -14,7 +14,7 @@
 		}
 	},
 	"server": {
-		"host": "8080",
+		"host": "26255",
 		"_pathname": "",
 	},
 	"stripe": {
