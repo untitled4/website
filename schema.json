@@ -27,7 +27,7 @@
 		"_name": "",
 		"_panelLabel": "",
 		"publishableKey": "pk_test_MW5gBqOJA5wSyK0VIBYFpVpL",
-		"receiptEmail": true,
+		"receiptEmail": false,
 		"shippingAddress": true,
 		"zipCode": true
 	}
