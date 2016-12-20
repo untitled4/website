@@ -4,13 +4,25 @@
 		"description": "Testing ecommerce on a static site with heroku server"
 	},
 	"products": {
-		"prod_9m9SvMxkycXEXl": {
-			"amount": 1499,
-			"description": "Deck of cards",
-			"_images": [""],
-			"_metadata": "",
-			"name": "Challenge Deck",
-			"_plan": "",
+		"sku_9mGv4qyiWeaBCo": {
+			"id": "sku_9mGv4qyiWeaBCo",
+			"object": "sku",
+			"active": true,
+			"attributes": {},
+			"created": 1482220167,
+			"currency": "usd",
+			"image": null,
+			"inventory": {
+			"quantity": null,
+			"type": "infinite",
+			"value": null
+			},
+			"livemode": false,
+			"metadata": {},
+			"package_dimensions": null,
+			"price": 1499,
+			"product": "prod_9m9SvMxkycXEXl",
+			"updated": 1482220167
 		}
 	},
 	"server": {
