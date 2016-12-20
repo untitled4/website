@@ -1,6 +1,6 @@
 {
 	"info": {
-		"name": "test",
+		"name": "TESTT",
 		"description": "Testing ecommerce on a static site with heroku server"
 	},
 	"products": {
@@ -18,8 +18,8 @@
 		"_pathname": "",
 	},
 	"stripe": {
-		"allowRememberMe": true,
-		"billingAddress": true,
+		"_allowRememberMe": true,
+		"_billingAddress": true,
 		"_bitcoin": false,
 		"_capture": true,
 		"_currency": "usd",
@@ -27,8 +27,8 @@
 		"_name": "",
 		"_panelLabel": "",
 		"publishableKey": "pk_test_MW5gBqOJA5wSyK0VIBYFpVpL",
-		"receiptEmail": false,
-		"shippingAddress": true,
-		"zipCode": true
+		"_receiptEmail": true,
+		"_shippingAddress": true,
+		"_zipCode": true
 	}
 }
